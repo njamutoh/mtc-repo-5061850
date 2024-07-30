@@ -1,2 +1,1 @@
-# mtc-repo-5061850
-code for terraform
+# This repository is for infrastructure development
